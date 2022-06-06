@@ -1,0 +1,26 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/autocomplete/ControllableStates.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "latest",
+    "aws-amplify": "3.3.1",
+    "aws-amplify-react": "4.2.5",
+    "prop-types": "15.7.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-nice-input-password": "2.7.0"
+  },
+  "keywords": [],
+  "name": "autocomplete-countries-and-regions-forked",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
